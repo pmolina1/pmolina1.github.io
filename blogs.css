@@ -1,0 +1,48 @@
+body{
+	background-color:#cce0ff /*light blue*/;
+	margin:0 auto;
+	padding:0;
+	width:95%;
+	font-family: 'Pontano Sans', sans-serif;
+}
+
+button{
+	background-color:#ffb84d; /*orange*/
+	font-size:15px;
+	margin-top:5px;
+	padding: 15px 15px;
+	font-family: 'Jaldi', sans-serif;
+}
+
+h1{
+	font-family: 'Jaldi', sans-serif;
+}
+
+button span:after{
+  content: '\00ab';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -40px;
+  transition: 0.5s
+}
+button span{
+	cursor: pointer;
+	display:inline-block;
+	position:relative; 
+	transition: 0.5s;
+}
+
+
+button:hover span{
+padding-right: 20px;
+}
+
+button:hover span:after{
+	opacity: 1;
+    right: 0;
+}
+
+.pdf{
+	margin: 50px;
+}
