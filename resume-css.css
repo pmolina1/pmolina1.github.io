@@ -74,6 +74,11 @@ span{
   .sidenav {padding-top: 15px;}
 }
 
+.resume{
+	text-align: center;
+	color:#ff8c00; /* darkorange*/
+}
+
 .skills{
 	margin:50px;
 }
