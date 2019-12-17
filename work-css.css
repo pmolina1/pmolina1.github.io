@@ -118,7 +118,6 @@ img{
   transition: .5s ease;
   opacity:0;
   color: white;
-  font-size: 10px;
   padding: 20px;
   text-align: center;
   margin: 0 auto;
@@ -140,7 +139,7 @@ img{
   transition: .5s ease;
   opacity:0;
   color: white;
-  font-size: 10px;
+  font-size: 20px;
   padding: 20px;
   text-align: center;
   margin: 0 auto;

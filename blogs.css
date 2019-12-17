@@ -6,6 +6,11 @@ body{
 	font-family: 'Pontano Sans', sans-serif;
 }
 
+a{
+	color:#ff8c00; /* darkorange*/
+	text-decoration:none;
+}
+
 button{
 	background-color:#ffb84d; /*orange*/
 	font-size:15px;
