@@ -111,7 +111,6 @@ span{
 	justify-content:center;
 	margin:auto;
 	overflow:auto;
-	
 }	
 
 .years{
@@ -134,6 +133,7 @@ span{
 	font-size:18px;
 	background-color:#ffb84d; /*orange*/
 	font-family: 'Pontano Sans', sans-serif;
+	overflow:auto;
 }
 
 .description h3{
@@ -142,7 +142,11 @@ span{
 }
 
  #fellow{
-	height:500px;
+	height:550px;
+}
+
+#landscaping{
+	height:515px;
 }
 
 .education {
@@ -184,6 +188,7 @@ span{
 	color:white;
 }
 
+
 img {
 	width:100px;
 	height:80px;
@@ -193,13 +198,14 @@ img {
 	padding:5px;
 }
 
-.vl1 {
-  border-left: 2px solid black;
+.vl1 { /*attempting vertical line responsive*/
+  border-left: 2px solid black; 
   height: 320px;
   position: absolute;
-  left:150px;
-  top:1105px;
+  left:11%;
+  top:135%;
   z-index:-1;
+  display:none;
 }
 
 .vl2 {
@@ -209,6 +215,7 @@ img {
   left:150px;
   top:1655px;
   z-index:-1;
+  display:none;
 }
 
 .vl3 {
@@ -218,6 +225,7 @@ img {
   left:150px;
   top:2200px;
   z-index:-1;
+  display:none;
 }
 
 .vl4 {
@@ -227,6 +235,7 @@ img {
   left:150px;
   top:2750px;
   z-index:-1;
+  display:none;
 
 }
 
