@@ -1,0 +1,35 @@
+<div class="pdf">
+<p>Version 2</p>
+<embed class="pdfobject" src="BlogPDFS/ver.2.pdf#toolbar=0" type="application/pdf" style="overflow: auto; width: 100%; height: 500px;">
+</div>
+
+<div class="pdf">
+<p>Version 3</p>
+<embed class="pdfobject" src="BlogPDFS/ver.3.pdf#toolbar=0" type="application/pdf" style="overflow: auto; width: 100%; height: 500px;">
+</div>
+
+<div class="pdf">
+<p>Version 4 - Final</p>
+<embed class="pdfobject" src="BlogPDFS/ver.4 (Final).pdf#toolbar=0" type="application/pdf" style="overflow: auto; width: 100%; height: 500px;">
+</div>
+
+<br>
+<br>
+
+<h3> Website Re-Design</h3>
+<p>My supervisor also wanted me to help her out with remaking the “About” section of the lab’s site. The website had an odd layout as you 
+can observe in the before images. I approached this issue by doing research on how other websites usually designed an about page. I did a 
+bunch of sketches, worked with the supervisor in outlining missions and design desires, and created wireframes and drafts for the supervisor 
+to look over. The final product shows a much cleaner layout with the names of the current members and links to their bio with images. Below 
+you will find alumni of the lab with links to their bios, work in the lab, and other outside projects they worked on.</p>
+
+<div class="pdf">
+<p>Before and After images of the site</p>
+<embed class="pdfobject" src="BlogPDFS/SIMLABweb.pdf#toolbar=0" type="application/pdf" style="overflow: auto; width: 100%; height: 500px;">
+</div>
+</div> <!--main-->
+
+<script src="./blog-VideoGameDesign.js" type="text/javascript"> </script>
+
+</body>
+</html>
